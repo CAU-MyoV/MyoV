@@ -1,4 +1,6 @@
 # MyoV
+
+If you use MyoV, please cite the paper:
 MyoV: A deep learning-based tool for the automated quantification of muscle fibers
 
 The code, GUI, and datasets of MyoV have been uploaded to Google Drive and Baidu Netdisk (link below)
