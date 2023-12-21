@@ -1,5 +1,7 @@
 # MyoV
 
+A deep learning-based tool for automatically quantifying muscle fibers. The PyQt framework is used to integrate MyoV into visualization software, which can be utilized on any computer running the Windows system. MyoV facilitates various functions including whole slide image cutting, muscle fiber segmentation, quantification, and automatic annotation. The software features a user-friendly interface and intuitive functions, enabling researchers to quickly grasp and utilize its capabilities.
+
 If you use MyoV, please cite the paper:
 
 MyoV: A deep learning-based tool for the automated quantification of muscle fibers. Briefings in Bioinformatics.
@@ -14,5 +16,5 @@ https://drive.google.com/drive/folders/1vTceXENtWGGJkGZMZ2L4HKCxO9HM0usf?usp=dri
 
 Baidu Netdisk:
 
-https://pan.baidu.com/s/1EaYthvnMDzWe36xd70S5Ww       
-Password: hk2p 
+https://pan.baidu.com/s/1HF5VJhaHB9j2ptB6iasxVA
+Password: rr1l 
