@@ -10,10 +10,12 @@ The code, GUI, and datasets of MyoV have been uploaded to Google Drive and Baidu
 
 Google Drive:
 
-https://drive.google.com/drive/folders/17Uw8I5OsllOuAfNr3M0G402KNfLEM9nH?usp=drive_link
-https://drive.google.com/drive/folders/1vTceXENtWGGJkGZMZ2L4HKCxO9HM0usf?usp=drive_link
+https://drive.google.com/drive/folders/1ZpPBK3E_Yu5hCSXt_dDgqSIOmaJ07x5z?usp=drive_link
+https://drive.google.com/file/d/1DCV__FtC4nLS08Cs9NDCANkmnq430x6Q/view?usp=drive_link
 
 Baidu Netdisk:
 
-https://pan.baidu.com/s/1HF5VJhaHB9j2ptB6iasxVA                                                                                                                                              
+https://pan.baidu.com/s/1-pFx48WGiRz22MwMXysDxA                                                                                                                                        
 Password: rr1l 
+
+
